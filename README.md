@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ollimpio/Ollimpio/output/snake.svg" alt="Snake animation" />
+<img src="github.com/Ollimpio/Ollimpio/blob/main/snake.svg" alt="Snake animation" />
 
 ###
